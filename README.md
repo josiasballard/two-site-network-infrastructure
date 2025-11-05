@@ -46,35 +46,36 @@ Replica Domain Controller • DHCP failover • Local file cache • Remote VoIP
 two-site-network-infrastructure/
 ├── README.md
 ├── diagrams/
-│ ├── topology.png
-│ ├── rc_vlan_map.png
-│ └── dallas_vlan_map.png
+│   ├── topology.png
+│   ├── rc_vlan_map.png
+│   └── dallas_vlan_map.png
 ├── pfSense/
-│ ├── rc_config.md
-│ ├── dallas_config.md
-│ └── vpn_tunnel_summary.txt
+│   ├── rc_config.md
+│   ├── dallas_config.md
+│   └── vpn_tunnel_summary.txt
 ├── ad/
-│ ├── ou_structure.txt
-│ ├── gpo_reports/
-│ └── replication_test.txt
+│   ├── ou_structure.txt
+│   ├── gpo_reports/
+│   └── replication_test.txt
 ├── dhcp_dns/
-│ └── scope_exports.txt
+│   └── scope_exports.txt
 ├── voip/
-│ └── pbx_setup.md
+│   └── pbx_setup.md
 ├── mdm/
-│ ├── intune_notes.md
-│ └── enrollment_screenshots/
+│   ├── intune_notes.md
+│   └── enrollment_screenshots/
 ├── inventory/
-│ └── device_inventory.csv
+│   └── device_inventory.csv
 ├── scans/
-│ └── site_scan.nmap
+│   └── site_scan.nmap
 ├── reports/
-│ └── audit_summary.pdf
+│   └── audit_summary.pdf
 └── screenshots/
-├── ad_replication.png
-├── pfSense_vlans.png
-├── freepbx_dashboard.png
-└── intune_devices.png
+    ├── ad_replication.png
+    ├── pfSense_vlans.png
+    ├── freepbx_dashboard.png
+    └── intune_devices.png
+
 
 
 ---
