@@ -76,9 +76,6 @@ two-site-network-infrastructure/
     ├── freepbx_dashboard.png
     └── intune_devices.png
 
-
-
-
 ---
 
 ## 🧰 Tools & Technologies
